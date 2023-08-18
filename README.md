@@ -34,6 +34,10 @@
 * VsCode Element-UI 提示插件：Element UI Snippets
 * 如果使用了 Sass 语法，开发环境需安装 node-sass、sass-loader 依赖
 
+## TODO
+* 参考 [nideshop_admin_full](https://github.com/saonian/nideshop_admin_full) 搭建一套基础后台管理模板
+* 接入后端服务，集成用户管理、菜单管理、权限管理、操作日志等系统功能
+
 ## 参考
 
 * [Vue + Element-UI 教程](https://github.com/yudiandemingzi/mall-manage-system)
